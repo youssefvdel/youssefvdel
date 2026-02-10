@@ -34,7 +34,4 @@ I rebuild systems from first principles — not to reinvent, but to understand.
 
 ## 📊 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=youssefvdel&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
 ![Streak](https://nirzak-streak-stats.vercel.app/?user=youssefvdel&theme=dark&hide_border=false)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=youssefvdel&theme=dark&hide_border=false&layout=compact)
-![Visitors](https://visitcount.itsvg.in/api?id=youssefvdel&icon=0&color=0)
