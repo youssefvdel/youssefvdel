@@ -12,8 +12,8 @@ Mastering C++ systems programming — memory safety, RAII, and clean architectur
 🌱 **Currently learning**  
 Java → Rust (safe systems programming) → Python (rapid prototyping).
 
-⚡ **Fun fact**  
-I rebuild systems from first principles — not to reinvent, but to understand.
+⚡ **Mindset**  
+I simulate systems mentally before writing code — understanding every component, predicting failure points, and designing around them.
 
 ---
 
