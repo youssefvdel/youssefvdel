@@ -1,11 +1,6 @@
-```
-██╗    ██╗ █████╗ ██████╗ ███╗   ██╗██╗███╗   ██╗ ██████╗
-██║    ██║██╔══██╗██╔══██╗████╗  ██║██║████╗  ██║██╔════╝
-██║ █╗ ██║███████║██████╔╝██╔██╗ ██║██║██╔██╗ ██║██║  ███╗
-██║███╗██║██╔══██║██╔══██╗██║╚██╗██║██║██║╚██╗██║██║   ██║
-╚███╔███╔╝██║  ██║██║  ██║██║ ╚████║██║██║ ╚████║╚██████╔╝
- ╚══╝╚══╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝╚═╝╚═╝  ╚═══╝ ╚═════╝
-```
+<p align="center">
+  <strong>youssefvdel</strong>
+</p>
 
 <p align="center">
   <em>Software engineer building tools that should exist but don't.</em>
@@ -17,11 +12,7 @@
 
 ---
 
-## `> whoami`
-
-```
-$ cat about.txt
-```
+## About
 
 I simulate systems mentally before writing code -- understanding every component,
 predicting failure points, and designing around them. Currently focused on C++
@@ -33,7 +24,7 @@ systems programming with deep attention to memory safety, RAII, and clean archit
 
 ---
 
-## `> skills --list`
+## Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=cpp,rust,java,python,ts,js&perline=6" alt="Languages" />
@@ -44,12 +35,12 @@ systems programming with deep attention to memory safety, RAII, and clean archit
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=postgres,docker,linux,bash,vim,neovim&perline=6" alt="Infrastructure" />
+  <img src="https://skillicons.dev/icons?i=postgres,docker,linux,bash&perline=4" alt="Infrastructure" />
 </p>
 
 ---
 
-## `> stats --verbose`
+## Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=youssefvdel&show_icons=true&theme=tokyonight&hide_border=true&title_color=64ffda&icon_color=64ffda&text_color=ccd6f6&bg_color=0d1117" alt="GitHub Stats" />
@@ -62,7 +53,7 @@ systems programming with deep attention to memory safety, RAII, and clean archit
 
 ---
 
-## `> activity --graph`
+## Activity
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=youssefvdel&theme=react-dark&color=64ffda&bg_color=0d1117&title_color=ccd6f6&line=64ffda&point=64ffda&area=true&hide_border=true&radius=0" alt="Activity Graph" />
@@ -70,18 +61,18 @@ systems programming with deep attention to memory safety, RAII, and clean archit
 
 ---
 
-## `> current --status`
+## Currently
 
 | Focus | Details |
 | --- | --- |
 | Primary | C++ systems programming, memory management, RAII patterns |
 | Learning | Rust ownership model, zero-cost abstractions |
-| Tooling | Vim/Neovim configuration, Linux environment optimization |
+| Tooling | Linux environment optimization, developer tooling |
 | Next | Python for tooling and rapid prototyping workflows |
 
 ---
 
-## `> connect`
+## Connect
 
 <p align="center">
   <a href="mailto:youssefvdel@gmail.com">
