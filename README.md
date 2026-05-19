@@ -19,13 +19,23 @@
 
 ## About
 
-I simulate systems mentally before writing code -- understanding every component,
-predicting failure points, and designing around them. Currently focused on C++
-systems programming with deep attention to memory safety, RAII, and clean architecture.
+I don't just accept how things are built -- I ask why they're built that way, and if there's a better approach. That mindset led me to reverse-engineer the Qwen desktop app for Linux (no official version existed), rebuild it first in Electron then in Tauri for performance, and now I'm extending it into a fully autonomous agent with custom MCP tooling.
 
-- **Building**: C++ systems with focus on memory safety and performance
-- **Exploring**: Rust for safe systems programming, Python for rapid prototyping
-- **Approach**: Understand the full system before touching the keyboard
+I can mentally simulate how systems work before writing a single line of code -- tracing data flow, predicting failure points, and understanding the internals, not just the surface API. It's a skill that comes with ADHD and relentless curiosity. I tinker constantly, get frustrated often, but never stop digging until I understand the core of how things work.
+
+I use Fedora Linux and the Halmak keyboard layout -- because when something felt wrong and inefficient, I researched it instead of accepting the default. That's how I approach everything.
+
+**What I'm building:**
+
+- **[qwen-studio](https://github.com/youssefvdel/qwen-studio)** -- Reverse-engineered Qwen desktop for Linux, rebuilt in Tauri. Currently adding MCP tools and building `qwen-core` (beta) for autonomous agent capabilities.
+- **[driftwm](https://github.com/nicedoc/driftwm)** -- 2D infinite canvas window manager. Contributed DnD icon fixes for cursor and IPC work. More coming after exams.
+
+**What drives me:**
+
+- Automations and developer experience tooling
+- Understanding systems at their core, not just their interfaces
+- Building things that should exist but don't
+- Low-level work when the stakes are manageable
 
 ---
 
@@ -70,10 +80,10 @@ systems programming with deep attention to memory safety, RAII, and clean archit
 
 | Focus | Details |
 | --- | --- |
-| Primary | C++ systems programming, memory management, RAII patterns |
-| Learning | Rust ownership model, zero-cost abstractions |
-| Tooling | Linux environment optimization, developer tooling |
-| Next | Python for tooling and rapid prototyping workflows |
+| Primary | qwen-studio -- MCP integration, qwen-core agent (beta) |
+| Contributing | driftwm -- IPC work, DnD fixes, more after exams |
+| Exploring | Rust for safe systems programming, Python for prototyping |
+| Setup | Fedora Linux, Halmak keyboard layout |
 
 ---
 
