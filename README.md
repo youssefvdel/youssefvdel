@@ -1,10 +1,8 @@
-```
-                                          _____         .___     .__   
- ___.__. ____  __ __  ______ ______ _____/ ____\__  ____| _/____ |  |  
-<   |  |/ _ \|  |  \/  ___//  ___// __ \   __\\  \/ / __ |/ __ \|  |  
- \___  (  <_> )  |  /\___ \ \___ \\  ___/|  |   \   / /_/ \  ___/|  |__
- / ____|\____/|____//____  >____  >\___  >__|    \_/\____ |\___  >____/
- \/                      \/     \/     \/                \/    \/
+```                                                                 
+▄▄ ▄▄  ▄▄▄  ▄▄ ▄▄  ▄▄▄▄  ▄▄▄▄ ▄▄▄▄▄ ▄▄▄▄▄ ▄▄ ▄▄ ▄▄▄▄  ▄▄▄▄▄ ▄▄    
+▀███▀ ██▀██ ██ ██ ███▄▄ ███▄▄ ██▄▄  ██▄▄  ██▄██ ██▀██ ██▄▄  ██    
+  █   ▀███▀ ▀███▀ ▄▄██▀ ▄▄██▀ ██▄▄▄ ██     ▀█▀  ████▀ ██▄▄▄ ██▄▄▄ 
+                                                                           
 ```
 
 <p align="center">
@@ -58,8 +56,8 @@ I use Fedora Linux and the Halmak keyboard layout -- because when something felt
 ## Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=youssefvdel&show_icons=true&theme=tokyonight&hide_border=true&title_color=64ffda&icon_color=64ffda&text_color=ccd6f6&bg_color=0d1117" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=youssefvdel&layout=compact&theme=tokyonight&hide_border=true&title_color=64ffda&text_color=ccd6f6&bg_color=0d1117" alt="Top Languages" />
+  <img src="https://ghstats.dev/api/card?username=youssefvdel&theme=tokyonight&hide_border=true&show_icons=true" alt="GitHub Stats" />
+  <img src="https://ghstats.dev/api/langs?username=youssefvdel&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
 <p align="center">
@@ -78,12 +76,12 @@ I use Fedora Linux and the Halmak keyboard layout -- because when something felt
 
 ## Currently
 
-| Focus | Details |
-| --- | --- |
-| Primary | qwen-studio -- MCP integration, qwen-core agent (beta) |
-| Contributing | driftwm -- IPC work, DnD fixes, more after exams |
-| Exploring | Rust for safe systems programming, Python for prototyping |
-| Setup | Fedora Linux, Halmak keyboard layout |
+| Focus        | Details                                                   |
+| ------------ | --------------------------------------------------------- |
+| Primary      | qwen-studio -- MCP integration, qwen-core agent (beta)    |
+| Contributing | driftwm -- IPC work, DnD fixes, more after exams          |
+| Exploring    | Rust for safe systems programming, Python for prototyping |
+| Setup        | Fedora Linux, Halmak keyboard layout                      |
 
 ---
 
