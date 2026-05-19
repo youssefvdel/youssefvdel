@@ -1,37 +1,99 @@
-# Youssef
+```
+██╗    ██╗ █████╗ ██████╗ ███╗   ██╗██╗███╗   ██╗ ██████╗
+██║    ██║██╔══██╗██╔══██╗████╗  ██║██║████╗  ██║██╔════╝
+██║ █╗ ██║███████║██████╔╝██╔██╗ ██║██║██╔██╗ ██║██║  ███╗
+██║███╗██║██╔══██║██╔══██╗██║╚██╗██║██║██║╚██╗██║██║   ██║
+╚███╔███╔╝██║  ██║██║  ██║██║ ╚████║██║██║ ╚████║╚██████╔╝
+ ╚══╝╚══╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝╚═╝╚═╝  ╚═══╝ ╚═════╝
+```
 
-Software engineer building tools that should exist but don't.
+<p align="center">
+  <em>Software engineer building tools that should exist but don't.</em>
+</p>
 
----
-
-## 💫 About Me
-
-🔭 **Currently working on**  
-Mastering C++ systems programming — memory safety, RAII, and clean architecture.
-
-🌱 **Currently learning**  
-Java → Rust (safe systems programming) → Python (rapid prototyping).
-
-⚡ **Mindset**  
-I simulate systems mentally before writing code — understanding every component, predicting failure points, and designing around them.
-
----
-
-## 💻 Tech Stack
-
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=youssefvdel&label=profile%20views&color=0e1116&style=flat" alt="Profile views" />
+</p>
 
 ---
 
-## 📊 GitHub Stats
+## `> whoami`
 
-![Streak](https://nirzak-streak-stats.vercel.app/?user=youssefvdel&theme=dark&hide_border=false)
+```
+$ cat about.txt
+```
+
+I simulate systems mentally before writing code -- understanding every component,
+predicting failure points, and designing around them. Currently focused on C++
+systems programming with deep attention to memory safety, RAII, and clean architecture.
+
+- **Building**: C++ systems with focus on memory safety and performance
+- **Exploring**: Rust for safe systems programming, Python for rapid prototyping
+- **Approach**: Understand the full system before touching the keyboard
+
+---
+
+## `> skills --list`
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,rust,java,python,ts,js&perline=6" alt="Languages" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,react,git,github&perline=6" alt="Web & Tools" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=postgres,docker,linux,bash,vim,neovim&perline=6" alt="Infrastructure" />
+</p>
+
+---
+
+## `> stats --verbose`
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=youssefvdel&show_icons=true&theme=tokyonight&hide_border=true&title_color=64ffda&icon_color=64ffda&text_color=ccd6f6&bg_color=0d1117" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=youssefvdel&layout=compact&theme=tokyonight&hide_border=true&title_color=64ffda&text_color=ccd6f6&bg_color=0d1117" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=youssefvdel&theme=tokyonight&hide_border=true&background=0d1117&stroke=21262d&ring=64ffda&fire=64ffda&currStreakNum=ccd6f6&sideNum=ccd6f6&currStreakLabel=64ffda&sideLabels=ccd6f6&dates=8b949e&excludeDaysLabel=484f58" alt="GitHub Streak" />
+</p>
+
+---
+
+## `> activity --graph`
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=youssefvdel&theme=react-dark&color=64ffda&bg_color=0d1117&title_color=ccd6f6&line=64ffda&point=64ffda&area=true&hide_border=true&radius=0" alt="Activity Graph" />
+</p>
+
+---
+
+## `> current --status`
+
+| Focus | Details |
+| --- | --- |
+| Primary | C++ systems programming, memory management, RAII patterns |
+| Learning | Rust ownership model, zero-cost abstractions |
+| Tooling | Vim/Neovim configuration, Linux environment optimization |
+| Next | Python for tooling and rapid prototyping workflows |
+
+---
+
+## `> connect`
+
+<p align="center">
+  <a href="mailto:youssefvdel@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" alt="Email" />
+  </a>
+  <a href="https://github.com/youssefvdel">
+    <img src="https://skillicons.dev/icons?i=github" alt="GitHub" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <sub>Built with markdown and intention</sub>
+</p>
