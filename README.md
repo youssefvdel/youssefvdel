@@ -52,17 +52,6 @@
 
 ---
 
-## Currently
-
-| Focus        | Details                                                   |
-| ------------ | --------------------------------------------------------- |
-| Primary      | qwen-studio -- MCP integration, qwen-core agent (beta)    |
-| Contributing | driftwm -- IPC work, DnD fixes, more after exams          |
-| Exploring    | Rust for safe systems programming, Python for prototyping |
-| Setup        | Fedora Linux, Halmak keyboard layout                      |
-
----
-
 ## Connect
 
 <p align="center">
