@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="340" viewBox="0 0 1280 340" role="img" aria-label="Youssef — I build tools, and the systems they run on.">
+  <rect width="1280" height="340" fill="#0b0b0c"/>
+  <rect x="64" y="72" width="1152" height="1" fill="#242322"/>
+  <text x="64" y="178" font-family="Georgia, 'Times New Roman', serif" font-size="92" fill="#f2f0ea" letter-spacing="-2">Youssef</text>
+  <circle cx="398" cy="170" r="6" fill="#ff5a1f"/>
+  <text x="66" y="232" font-family="Georgia, 'Times New Roman', serif" font-size="28" fill="#8b8781">I build tools, and the systems they run on.</text>
+  <text x="64" y="300" font-family="Helvetica, Arial, sans-serif" font-size="13" fill="#8b8781" letter-spacing="3">CAIRO, EGYPT</text>
+  <text x="1216" y="300" text-anchor="end" font-family="Helvetica, Arial, sans-serif" font-size="13" fill="#8b8781" letter-spacing="3">GITHUB.COM/YOUSSEFVDEL</text>
+  <rect x="0" y="338" width="1280" height="2" fill="#ff5a1f"/>
+</svg>

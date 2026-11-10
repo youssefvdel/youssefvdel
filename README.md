@@ -1,70 +1,29 @@
-```                                                                 
-▄▄ ▄▄  ▄▄▄  ▄▄ ▄▄  ▄▄▄▄  ▄▄▄▄ ▄▄▄▄▄ ▄▄▄▄▄ ▄▄ ▄▄ ▄▄▄▄  ▄▄▄▄▄ ▄▄    
-▀███▀ ██▀██ ██ ██ ███▄▄ ███▄▄ ██▄▄  ██▄▄  ██▄██ ██▀██ ██▄▄  ██    
-  █   ▀███▀ ▀███▀ ▄▄██▀ ▄▄██▀ ██▄▄▄ ██     ▀█▀  ████▀ ██▄▄▄ ██▄▄▄ 
-                                                                           
-```
-
 <p align="center">
-  <em>Software engineer building tools that should exist but don't.</em>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="banner-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="banner-light.svg">
+    <img alt="Youssef — I build tools, and the systems they run on." src="banner-dark.svg" width="100%">
+  </picture>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=youssefvdel&label=profile%20views&color=0e1116&style=flat" alt="Profile views" />
-</p>
+I write TypeScript and Rust, self-host what I depend on, and spend the rest of the time measuring networks that lie.
 
----
+## Selected work
 
-## Tech Stack
+| Project | What it does | Stack |
+| --- | --- | --- |
+| **[Qwen Gate](https://github.com/youssefvdel/qwengate)** | A drop-in OpenAI-compatible gateway for Qwen models | TypeScript · Bun |
+| **[Recon](https://github.com/youssefvdel/Recon)** | Live lobby scouting and in-game HUD widgets for VALORANT | TypeScript · Rust · Tauri |
+| **[Qwen Studio](https://github.com/youssefvdel/qwen-studio)** | The Qwen Studio desktop app, ported to Linux | Rust |
+| **[docsGround](https://github.com/youssefvdel/docsGround)** | Documentation grounding and search for agents, indexed in SQLite | TypeScript |
+| **[better-ubuntu](https://github.com/youssefvdel/better-ubuntu)** | One command to debloat Ubuntu: scans, fixes, prints a report | Rust |
+| **[XVX G75 driver](https://github.com/youssefvdel/xvx-g75-linux-driver)** | Reverse-engineering a keyboard's Windows driver for Linux | Shell |
+| **[Solar Tracker](https://github.com/youssefvdel/Solar-Tracker-Embedded)** | An ESP32 that tracks the sun with dual LDRs and a servo | C++ |
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,rust,java,python,ts,js&perline=6" alt="Languages" />
-</p>
+## What I work with
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,react,git,github&perline=6" alt="Web & Tools" />
-</p>
+TypeScript · Rust · Go · Bun · Node · Linux (systemd, nginx) · Cloudflare · SQLite · Postgres
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=postgres,docker,linux,bash&perline=4" alt="Infrastructure" />
-</p>
+## Elsewhere
 
----
-
-## Stats
-
-<p align="center">
-  <img src="https://ghstats.dev/api/card?username=youssefvdel&theme=tokyonight&hide_border=true&show_icons=true" alt="GitHub Stats" />
-  <img src="https://ghstats.dev/api/langs?username=youssefvdel&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=youssefvdel&theme=tokyonight&hide_border=true&background=0d1117&stroke=21262d&ring=64ffda&fire=64ffda&currStreakNum=ccd6f6&sideNum=ccd6f6&currStreakLabel=64ffda&sideLabels=ccd6f6&dates=8b949e&excludeDaysLabel=484f58" alt="GitHub Streak" />
-</p>
-
----
-
-## Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=youssefvdel&theme=react-dark&color=64ffda&bg_color=0d1117&title_color=ccd6f6&line=64ffda&point=64ffda&area=true&hide_border=true&radius=0" alt="Activity Graph" />
-</p>
-
----
-
-## Connect
-
-<p align="center">
-  <a href="mailto:youssefvdel@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" alt="Email" />
-  </a>
-  <a href="https://github.com/youssefvdel">
-    <img src="https://skillicons.dev/icons?i=github" alt="GitHub" />
-  </a>
-</p>
-
----
-
-<p align="center">
-  <sub>Built with markdown and intention</sub>
-</p>
+[Portfolio](https://youssefvdel.dpdns.org) · [youssefvdel@gmail.com](mailto:youssefvdel@gmail.com)
