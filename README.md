@@ -25,7 +25,7 @@ I write TypeScript and Rust, self-host what I depend on, and spend the rest of t
 <sub>refreshed daily by [the ship-log workflow](.github/workflows/ship-log.yml)</sub>
 
 <!-- ship:begin -->
-[Recon](https://github.com/youssefvdel/Recon) <sub>2026-11-10</sub> · [youssefvdel](https://github.com/youssefvdel/youssefvdel) <sub>2026-11-10</sub> · [youssefvdel.github.io](https://github.com/youssefvdel/youssefvdel.github.io) <sub>2026-11-10</sub> · [react-ui-skill](https://github.com/youssefvdel/react-ui-skill) <sub>2026-10-27</sub> · [stacklist](https://github.com/youssefvdel/stacklist) <sub>2026-10-27</sub>
+[youssefvdel](https://github.com/youssefvdel/youssefvdel) <sub>2026-11-10</sub> · [Recon](https://github.com/youssefvdel/Recon) <sub>2026-11-10</sub> · [youssefvdel.github.io](https://github.com/youssefvdel/youssefvdel.github.io) <sub>2026-11-10</sub> · [react-ui-skill](https://github.com/youssefvdel/react-ui-skill) <sub>2026-10-27</sub> · [stacklist](https://github.com/youssefvdel/stacklist) <sub>2026-10-27</sub>
 <!-- ship:end -->
 
 ## What I work with
