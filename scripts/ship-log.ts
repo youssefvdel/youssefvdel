@@ -30,7 +30,7 @@ type Repo = {
 
 const repos = (await res.json()) as Repo[]
 const recent = repos
-  .filter((repo) => !repo.fork && !repo.archived)
+  .filter((repo) => !repo.fork && !repo.archived && repo.name !== USER)
   .slice(0, 5)
   .map((repo) => {
     const date = new Date(repo.pushed_at).toISOString().slice(0, 10)
