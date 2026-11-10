@@ -27,7 +27,6 @@ I write TypeScript and Rust, self-host what I depend on, and spend the rest of t
 <!-- ship:begin -->
 [Recon](https://github.com/youssefvdel/Recon) <sub>2026-11-10</sub> · [youssefvdel.github.io](https://github.com/youssefvdel/youssefvdel.github.io) <sub>2026-11-10</sub> · [react-ui-skill](https://github.com/youssefvdel/react-ui-skill) <sub>2026-10-27</sub> · [stacklist](https://github.com/youssefvdel/stacklist) <sub>2026-10-27</sub> · [GameDesignLabs](https://github.com/youssefvdel/GameDesignLabs) <sub>2026-10-26</sub>
 <!-- ship:end -->
-<!-- ship:end -->
 
 ## What I work with
 
