@@ -26,7 +26,7 @@ Qwen Gate — OpenAI-compatible gateway for Qwen · Recon — VALORANT scouting 
 <sub>refreshed daily by [the ship-log workflow](.github/workflows/ship-log.yml)</sub>
 
 <!-- ship:begin -->
-[Recon](https://github.com/youssefvdel/Recon) <sub>2026-11-10</sub> · [point-here](https://github.com/youssefvdel/point-here) <sub>2026-11-10</sub> · [youssefvdel.github.io](https://github.com/youssefvdel/youssefvdel.github.io) <sub>2026-11-10</sub> · [react-ui-skill](https://github.com/youssefvdel/react-ui-skill) <sub>2026-10-27</sub> · [GameDesignLabs](https://github.com/youssefvdel/GameDesignLabs) <sub>2026-10-26</sub>
+[Recon](https://github.com/youssefvdel/Recon) <sub>2026-11-11</sub> · [point-here](https://github.com/youssefvdel/point-here) <sub>2026-11-10</sub> · [youssefvdel.github.io](https://github.com/youssefvdel/youssefvdel.github.io) <sub>2026-11-10</sub> · [react-ui-skill](https://github.com/youssefvdel/react-ui-skill) <sub>2026-10-27</sub> · [GameDesignLabs](https://github.com/youssefvdel/GameDesignLabs) <sub>2026-10-26</sub>
 <!-- ship:end -->
 
 ## What I work with
