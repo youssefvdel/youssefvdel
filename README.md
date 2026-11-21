@@ -26,7 +26,7 @@ Qwen Gate — OpenAI-compatible gateway for Qwen · Recon — VALORANT scouting 
 <sub>refreshed daily by [the ship-log workflow](.github/workflows/ship-log.yml)</sub>
 
 <!-- ship:begin -->
-[slint](https://github.com/youssefvdel/slint) <sub>2026-11-17</sub> · [opencode-clock-plugin](https://github.com/youssefvdel/opencode-clock-plugin) <sub>2026-11-15</sub> · [Outpeek](https://github.com/youssefvdel/Outpeek) <sub>2026-11-14</sub> · [point-here](https://github.com/youssefvdel/point-here) <sub>2026-11-10</sub> · [youssefvdel.github.io](https://github.com/youssefvdel/youssefvdel.github.io) <sub>2026-11-10</sub>
+[Outpeek](https://github.com/youssefvdel/Outpeek) <sub>2026-11-21</sub> · [slint](https://github.com/youssefvdel/slint) <sub>2026-11-17</sub> · [opencode-clock-plugin](https://github.com/youssefvdel/opencode-clock-plugin) <sub>2026-11-15</sub> · [point-here](https://github.com/youssefvdel/point-here) <sub>2026-11-10</sub> · [youssefvdel.github.io](https://github.com/youssefvdel/youssefvdel.github.io) <sub>2026-11-10</sub>
 <!-- ship:end -->
 
 ## What I work with
