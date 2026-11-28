@@ -16,10 +16,9 @@ I write TypeScript and Rust, self-host what I depend on, and spend the rest of t
 | :---: | :---: |
 | [<img src="covers/qwengate.svg" width="330" alt="Qwen Gate">](https://github.com/youssefvdel/qwengate) | [<img src="covers/Recon.svg" width="330" alt="Recon">](https://github.com/youssefvdel/Recon) |
 | [<img src="covers/qwen-studio.svg" width="330" alt="Qwen Studio">](https://github.com/youssefvdel/qwen-studio) | [<img src="covers/docsGround.svg" width="330" alt="docsGround">](https://github.com/youssefvdel/docsGround) |
-| [<img src="covers/better-ubuntu.svg" width="330" alt="better-ubuntu">](https://github.com/youssefvdel/better-ubuntu) | [<img src="covers/xvx-g75-linux-driver.svg" width="330" alt="XVX G75 driver">](https://github.com/youssefvdel/xvx-g75-linux-driver) |
-| [<img src="covers/Solar-Tracker-Embedded.svg" width="330" alt="Solar Tracker">](https://github.com/youssefvdel/Solar-Tracker-Embedded) | |
+| [<img src="covers/xvx-g75-linux-driver.svg" width="330" alt="XVX G75 driver">](https://github.com/youssefvdel/xvx-g75-linux-driver) | [<img src="covers/Solar-Tracker-Embedded.svg" width="330" alt="Solar Tracker">](https://github.com/youssefvdel/Solar-Tracker-Embedded) |
 
-Qwen Gate — OpenAI-compatible gateway for Qwen · Recon — VALORANT scouting and HUD · Qwen Studio — the desktop app on Linux · docsGround — documentation grounding for agents · better-ubuntu — one-command debloat · XVX G75 — reverse-engineering a keyboard driver · Solar Tracker — ESP32 sun tracking
+Qwen Gate — OpenAI-compatible gateway for Qwen · Recon — VALORANT scouting and HUD · Qwen Studio — the desktop app on Linux · docsGround — documentation grounding for agents · XVX G75 — reverse-engineering a keyboard driver · Solar Tracker — ESP32 sun tracking
 
 ## Recently pushed
 
